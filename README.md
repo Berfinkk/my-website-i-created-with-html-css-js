@@ -1,1 +1,1 @@
-Html Css ve ScrollReveal Js kullanarak oluşturduğum responsive meb sitesi
+Html Css ve ScrollReveal Js kullanarak oluşturduğum responsive web sitesi
